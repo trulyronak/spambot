@@ -9,6 +9,6 @@ SpamBot for FB Messenger
 5. Install Required Dependencies: "npm install facebook-chat-api"
 6. Run Program: "node <program_name> <email_to_facebook> <password_to_facebook> <spam_message> <person_to_send_id>'"
 7. Spam Away!
-8. 
+
 #Questions?
 email me @ <a href="mailto:contact@ronakshah.net">contact@ronakshah.net</a>
