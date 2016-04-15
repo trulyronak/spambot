@@ -21,7 +21,6 @@ var login = require("facebook-chat-api");
 
 login({email: email, password: password}, function callback (err, api) {
   if(err) return console.error(err);
-  setInterval(function (){  api.sendMessage(spam, id);}, 1000);
-  console.log("message sent");
+  setInterval(function (){  api.sendMessage(spam, id);   console.log("message sent");}, 1000);
 
 });
