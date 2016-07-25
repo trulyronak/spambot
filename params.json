@@ -1,0 +1,6 @@
+{
+  "name": "Spam Bot",
+  "tagline": "Spam your friends with amazing efficiency using Node.js",
+  "body": "# Platforms\r\nCurrently, spambot can only be applied to Facebook Messenger\r\n\r\n#How to use\r\n1. Install Node.js <a href = \"https://nodejs.org/en/download/\">here</a>\r\n2. Install git <a href = \"https://git-scm.com/book/en/v2/Getting-Started-Installing-Git\">here</a> (or \"brew install git\" or \"sudo apt-get install git\" or \"yum install git\" or \"pacman -s git\"\r\n3. Clone The Repo: \"git clone https://github.com/TheTrueMaster/SpamBot\"\r\n4. Navigate into the directory (\"cd SpamBot\")\r\n5. Install Required Dependencies: \"npm install facebook-chat-api\"\r\n6. Run Program: \"node <program_name> <email_to_facebook> <password_to_facebook> <spam_message> <person_to_send_id>'\"\r\n7. Spam Away!\r\n\r\n#Questions?\r\nemail me @ <a href=\"mailto:contact@ronakshah.net\">contact@ronakshah.net</a>\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
