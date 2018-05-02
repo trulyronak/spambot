@@ -1,7 +1,10 @@
 # SpamBot
 SpamBot for FB Messenger
 
-#How to use
+## NOTE
+I am not liable for any usage of this software. By using this software, you agree to assume all responsibilities and any harm that you may cause. this software is intended to be used for comedic purposes.  
+
+## How to use
 1. Install Node.js <a href = "https://nodejs.org/en/download/">here</a>
 2. Install git <a href = "https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">here</a> (or "brew install git" or "sudo apt-get install git" or "yum install git" or "pacman -s git"
 3. Clone The Repo: "git clone https://github.com/TheTrueMaster/SpamBot"
