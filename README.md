@@ -1,6 +1,9 @@
 # SpamBot
 SpamBot for FB Messenger
 
+## Attention!
+This is no longer being maintained in any capacity. Find more creative ways to annoy your friends, fb chatbots are so 2016.
+
 ## NOTE
 I am not liable for any usage of this software. By using this software, you agree to assume all responsibilities and any harm that you may cause. this software is intended to be used for comedic purposes.  
 
@@ -13,5 +16,5 @@ I am not liable for any usage of this software. By using this software, you agre
 6. Run Program: "node <program_name> <email_to_facebook> <password_to_facebook> <spam_message> <person_to_send_id>'"
 7. Spam Away!
 
-#Questions?
-email me @ <a href="mailto:contact@ronakshah.net">contact@ronakshah.net</a>
+# Questions?
+google it please
